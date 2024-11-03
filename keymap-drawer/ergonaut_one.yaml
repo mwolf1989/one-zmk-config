@@ -13,7 +13,7 @@ layers:
   - P
   - '['
   - '`'
-  - {t: A, h: LGUI}
+  - {t: A, h: LCMD}
   - {t: S, h: LALT}
   - {t: D, h: LCTRL}
   - {t: F, h: LSHFT}
@@ -22,7 +22,7 @@ layers:
   - {t: J, h: RSHFT}
   - {t: K, h: LCTRL}
   - {t: L, h: LALT}
-  - {t: ;, h: LGUI}
+  - {t: ;, h: LCMD}
   - ''''
   - '-'
   - Z
@@ -56,14 +56,14 @@ layers:
   - ''
   - SLCK
   - ''
-  - {t: LGUI, h: sticky}
+  - {t: LCMD, h: sticky}
   - {t: LALT, h: sticky}
   - {t: LCTRL, h: sticky}
   - {t: LSHFT, h: sticky}
   - MUTE
   - PG DN
   - {t: LEFT, h: HOME}
-  - {t: DOWN, h: Ctl+ END}
+  - {t: DOWN, h: Cmd+ END}
   - {t: RIGHT, h: END}
   - RET
   - CLCK
@@ -86,7 +86,7 @@ layers:
   - {t: ▽, type: trans}
   - {type: held}
   num:
-  - {t: F1, h: LGUI}
+  - {t: F1, h: LCMD}
   - F2
   - F3
   - F4
