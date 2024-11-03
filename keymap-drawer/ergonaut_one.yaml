@@ -13,16 +13,16 @@ layers:
   - P
   - {t: '-', s: _}
   - {t: '[', s: '{'}
-  - {t: A, h: LGUI}
-  - {t: S, h: LALT}
+  - {t: A, h: LALT}
+  - {t: S, h: LGUI}
   - {t: D, h: LCTRL}
   - {t: F, h: LSHFT}
   - G
   - H
   - {t: J, h: RSHFT}
   - {t: K, h: LCTRL}
-  - {t: L, h: LALT}
-  - {t: ;, h: LGUI}
+  - {t: L, h: LGUI}
+  - {t: ;, h: LALT}
   - {t: ']', s: '}'}
   - {t: '|', s: '~'}
   - Z
@@ -56,8 +56,8 @@ layers:
   - PSCRN
   - SLCK
   - ''
-  - {t: LGUI, h: sticky}
   - {t: LALT, h: sticky}
+  - {t: LGUI, h: sticky}
   - {t: LCTRL, h: sticky}
   - {t: LSHFT, h: sticky}
   - MUTE
@@ -99,18 +99,18 @@ layers:
   - )
   - {t: '-', s: _}
   - ''
-  - {t: '1', h: LGUI}
-  - {t: '2', h: LALT}
+  - {t: '1', h: LALT}
+  - {t: '2', h: LGUI}
   - {t: '3', h: LCTRL}
   - {t: '4', h: LSHFT}
   - '5'
   - '6'
   - {t: '7', h: RSHFT}
   - {t: '8', h: LCTRL}
-  - {t: '9', h: LALT}
-  - {t: '0', h: LGUI}
+  - {t: '9', h: LGUI}
+  - {t: '0', h: LALT}
   - ''
-  - {t: F1, h: LGUI}
+  - {t: F1, h: LALT}
   - F2
   - F3
   - F4
