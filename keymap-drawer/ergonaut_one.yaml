@@ -13,16 +13,16 @@ layers:
   - P
   - {t: '-', s: _}
   - {t: '[', s: '{'}
-  - {t: A, h: LALT}
-  - {t: S, h: LGUI}
-  - {t: D, h: LCTRL}
+  - {t: A, h: LCTRL}
+  - {t: S, h: LALT}
+  - {t: D, h: LGUI}
   - {t: F, h: LSHFT}
   - G
   - H
   - {t: J, h: RSHFT}
-  - {t: K, h: LCTRL}
-  - {t: L, h: LGUI}
-  - {t: ;, h: LALT}
+  - {t: K, h: RGUI}
+  - {t: L, h: LALT}
+  - {t: ;, h: LCTRL}
   - {t: ']', s: '}'}
   - {t: '|', s: '~'}
   - Z
@@ -54,11 +54,11 @@ layers:
   - {t: UP, h: Ctl+ HOME}
   - ''
   - PSCRN
-  - SLCK
+  - CLCK
   - ''
+  - {t: LCTRL, h: sticky}
   - {t: LALT, h: sticky}
   - {t: LGUI, h: sticky}
-  - {t: LCTRL, h: sticky}
   - {t: LSHFT, h: sticky}
   - MUTE
   - PG DN
@@ -66,7 +66,7 @@ layers:
   - {t: DOWN, h: Ctl+ END}
   - {t: RIGHT, h: END}
   - INS
-  - CLCK
+  - APP
   - ''
   - ''
   - ''
@@ -78,7 +78,7 @@ layers:
   - ''
   - ''
   - RET
-  - APP
+  - ''
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
